@@ -1,4 +1,4 @@
-package com.samsoltani.ttt.Train.Ticket.Reservation;
+package com.samsoltani.ttt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.samsoltani.ttt.Train.Ticket.Reservation;
+package com.samsoltani.ttt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
